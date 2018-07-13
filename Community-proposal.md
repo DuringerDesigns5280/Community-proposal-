@@ -23,11 +23,12 @@ who has been through it and has experience coming out and/or transitioning. This
 
 
 ## Map the user experience
-1) As a user I would like to cerate and log in with my account. 
-2) As a user I would personlize 'My Profile' by adding Name, Sexual Orientation, and a description. 
-3) As a user I would like to be able to view Mentor profiles. 
-4) As a user I would like to access national resources for the LGBTQ community on one page. 
-5) As a user I would like to live chat with my mentors. 
+1) As a user I would like to be greeted with a welcome page a description of the app. 
+2) As a user I would like to cerate and log in with my account. 
+3) As a user I would personlize 'My Profile' by adding Name, Sexual Orientation, and a description. 
+4) As a user I would like to be able to view Mentor profiles. 
+5) As a user I would like to access national resources for the LGBTQ community on one page. 
+6) As a user I would like to live chat with my mentors. 
 
 ## What technologies do you plan to use? 
 
